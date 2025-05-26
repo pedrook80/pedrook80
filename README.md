@@ -1,7 +1,7 @@
 ### Hello , I'm Pedro Augusto a developer
 
 - 🌱 I’m currently learning Typescript and NodeJs
-- 💬 Ask me about **JavaScript, MySql, Socket, Webhook**
+- 💬 Ask me about **JavaScript, MySql, MongoDB Socket, Webhook**
 - ⚡ Fun fact **D for developer 😜**
 
  <br><br>
