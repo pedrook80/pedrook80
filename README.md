@@ -3,14 +3,6 @@
 - 🌱 I’m currently learning Typescript and NodeJs
 - 💬 Ask me about **JavaScript, MySql, MongoDB Socket, Webhook**
 - ⚡ Fun fact **D for developer 😜**
-
- <br><br>
-
-<div align="center">
-  <a href="https://github.com/pedrook80">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrook80&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrook80&layout=compact&langs_count=7&theme=highcontrast"/>
-</div>
   
   <br><br>
   
